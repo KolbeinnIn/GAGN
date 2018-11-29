@@ -1,0 +1,1 @@
+(101, 'fname', 'lname', 'street', 'city', 'state', 1000, 0),

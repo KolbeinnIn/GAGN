@@ -2,7 +2,6 @@
 create database 0908002640_company;
 use 0908002640_company;
 
-drop table deptsal;
 
 /*2*/
 create table deptsal as select dept_no, 0 as totalsalary from dept;
